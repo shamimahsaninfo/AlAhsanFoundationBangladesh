@@ -1,0 +1,21 @@
+{
+  "name": "আল আহসান ফাউন্ডেশন বাংলাদেশ",
+  "short_name": "আল আহসান",
+  "description": "শিক্ষা, খাদ্য, চিকিৎসা ও বিশুদ্ধ পানি — আল আহসান ফাউন্ডেশন বাংলাদেশের কার্যক্রম, স্বচ্ছ হিসাব ও যাচাইযোগ্য রসিদ।",
+  "lang": "bn",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F9F9F9",
+  "theme_color": "#004D40",
+  "icons": [
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "দান করুন", "url": "/donate" },
+    { "name": "আমার দান", "url": "/my-donations" },
+    { "name": "স্বচ্ছতা", "url": "/transparency" }
+  ]
+}
